@@ -16,32 +16,24 @@
                   "%":20,
                   "description": "jupyter notebook"
                  },     
-     "Tareas":[{"Tarea": "1",
+     "Tareas":[{"Tarea": "curso",
                 "value": 0,
                 "description": "Mi primer pull request"
-               },
-                {"Tarea": "2",
-                "value": 0,
-                "description": ""
-               },               
-                {"Tarea": "3",
-                "value": 0,
-                "description": ""
-               },
+               },            
                {"Taller":"Profesor Externo",
                 "value":null,
                 "%":15
                }
               ]
     },
-    {"student_id":"1001010816",
+    {"student_id":"1000305547",
      "Parcial_1":{"value":0,
                   "%":20,
                   "description": "Capítulos 1,2,3,4"
                  },     
-     "Parcial_2":{"value":0,
+     "Parcial_2":{"value":3.0,
                   "%":20,
-                  "description": "Capítulos 5,6"
+                  "description": "Capítulos 5,6 → Faltó simetrizar la matriz. Una matrix no simétrica debe ser diagonalizada con dos matrices de diagonalización (teorema 2)"
                  },
      "Parcial_3":{"value":null,
                   "%":20,
@@ -51,16 +43,8 @@
                   "%":20,
                   "description": "jupyter notebook"
                  },     
-     "Tareas":[{"Tarea": "1",
+     "Tareas":[{"Tarea": "Curso",
                 "value": 5.0,
-                "description": "Mi primer pull request → Bacano lo de la suma"
-               },
-                {"Tarea": "2",
-                "value": 0,
-                "description": ""
-               },               
-                {"Tarea": "3",
-                "value": 0,
                 "description": ""
                },
                {"Taller":"Profesor Externo",
@@ -68,5 +52,86 @@
                 "%":15
                }
               ]
-    }
+    },
+    {"student_id":"71385223",
+    "Parcial_1":{"value":0,
+                 "%":20,
+                 "description": "Capítulos 1,2,3,4"
+                },     
+    "Parcial_2":{"value":3.0,
+                 "%":20,
+                 "description": "Capítulos 5,6 → Faltó simetrizar la matriz. Una matrix no simétrica debe ser diagonalizada con dos matrices de diagonalización (teorema 2)"
+                },
+    "Parcial_3":{"value":null,
+                 "%":20,
+                 "description": "Capítulos 7,8"
+                },     
+    "Trabajo_Final":{"value":0,
+                 "%":20,
+                 "description": "jupyter notebook"
+                },     
+    "Tareas":[{"Tarea": "curso",
+               "value": 0,
+               "description": "Mi primer pull request"
+              },            
+              {"Taller":"Profesor Externo",
+               "value":null,
+               "%":15
+              }
+             ]
+   },
+   {"student_id":"0000000000",
+   "Parcial_1":{"value":0,
+                "%":20,
+                "description": "Capítulos 1,2,3,4"
+               },     
+   "Parcial_2":{"value":0,
+                "%":20,
+                "description": "Capítulos 5,6"
+               },
+   "Parcial_3":{"value":null,
+                "%":20,
+                "description": "Capítulos 7,8"
+               },     
+   "Trabajo_Final":{"value":0,
+                "%":20,
+                "description": "jupyter notebook"
+               },     
+   "Tareas":[{"Tarea": "curso",
+              "value": 0,
+              "description": "Mi primer pull request"
+             },            
+             {"Taller":"Profesor Externo",
+              "value":null,
+              "%":15
+             }
+            ]
+  },
+  {"student_id":"0000000000",
+  "Parcial_1":{"value":0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4"
+              },     
+  "Parcial_2":{"value":0,
+               "%":20,
+               "description": "Capítulos 5,6"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ },         
 ]

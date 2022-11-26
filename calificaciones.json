@@ -54,7 +54,7 @@
               ]
     },
     {"student_id":"71385223",
-    "Parcial_1":{"value":0,
+    "Parcial_1":{"value":5.0,
                  "%":20,
                  "description": "Capítulos 1,2,3,4"
                 },     
@@ -71,7 +71,7 @@
                  "description": "jupyter notebook"
                 },     
     "Tareas":[{"Tarea": "curso",
-               "value": 0,
+               "value": 5.0,
                "description": "Mi primer pull request"
               },            
               {"Taller":"Profesor Externo",
@@ -80,14 +80,14 @@
               }
              ]
    },
-   {"student_id":"0000000000",
-   "Parcial_1":{"value":0,
+   {"student_id":"1036951049",
+   "Parcial_1":{"value":2.5,
                 "%":20,
-                "description": "Capítulos 1,2,3,4"
+                "description": "Capítulos 1,2,3,4: faltó exoplorar más posibilidades"
                },     
-   "Parcial_2":{"value":0,
+   "Parcial_2":{"value":3.5,
                 "%":20,
-                "description": "Capítulos 5,6"
+                "description": "Capítulos 5,6 → Matriz mal construida"
                },
    "Parcial_3":{"value":null,
                 "%":20,
@@ -107,7 +107,61 @@
              }
             ]
   },
-  {"student_id":"0000000000",
+  {"student_id":"1001228880",
+  "Parcial_1":{"value":3.0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4 → faltó exploar más el API"
+              },     
+  "Parcial_2":{"value":2.0,
+               "%":20,
+               "description": "Capítulos 5,6 → https://www.wolframalpha.com/input?i=integrate+sin(x^8)+from+0+to+infinity da 0.18 que se obtiene al integrar hasta 2"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 5.0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ },  
+ {"student_id":"0000000000",
+ "Parcial_1":{"value":0,
+              "%":20,
+              "description": "Capítulos 1,2,3,4"
+             },     
+ "Parcial_2":{"value":0,
+              "%":20,
+              "description": "Capítulos 5,6"
+             },
+ "Parcial_3":{"value":null,
+              "%":20,
+              "description": "Capítulos 7,8"
+             },     
+ "Trabajo_Final":{"value":0,
+              "%":20,
+              "description": "jupyter notebook"
+             },     
+ "Tareas":[{"Tarea": "curso",
+            "value": 0,
+            "description": "Mi primer pull request"
+           },            
+           {"Taller":"Profesor Externo",
+            "value":null,
+            "%":15
+           }
+          ]
+},
+{"student_id":"0000000000",
   "Parcial_1":{"value":0,
                "%":20,
                "description": "Capítulos 1,2,3,4"
@@ -133,5 +187,113 @@
              "%":15
             }
            ]
- },         
+ },
+ {"student_id":"0000000000",
+  "Parcial_1":{"value":0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4"
+              },     
+  "Parcial_2":{"value":0,
+               "%":20,
+               "description": "Capítulos 5,6"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ },
+ {"student_id":"0000000000",
+  "Parcial_1":{"value":0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4"
+              },     
+  "Parcial_2":{"value":0,
+               "%":20,
+               "description": "Capítulos 5,6"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ },
+ {"student_id":"0000000000",
+  "Parcial_1":{"value":0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4"
+              },     
+  "Parcial_2":{"value":0,
+               "%":20,
+               "description": "Capítulos 5,6"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ },
+ {"student_id":"0000000000",
+  "Parcial_1":{"value":0,
+               "%":20,
+               "description": "Capítulos 1,2,3,4"
+              },     
+  "Parcial_2":{"value":0,
+               "%":20,
+               "description": "Capítulos 5,6"
+              },
+  "Parcial_3":{"value":null,
+               "%":20,
+               "description": "Capítulos 7,8"
+              },     
+  "Trabajo_Final":{"value":0,
+               "%":20,
+               "description": "jupyter notebook"
+              },     
+  "Tareas":[{"Tarea": "curso",
+             "value": 0,
+             "description": "Mi primer pull request"
+            },            
+            {"Taller":"Profesor Externo",
+             "value":null,
+             "%":15
+            }
+           ]
+ }        
 ]
